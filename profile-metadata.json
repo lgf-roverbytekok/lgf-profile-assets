@@ -1,5 +1,75 @@
 {
     "name": "Lenier G. Fontaine",
     "avatar": "avatar.jpeg",
-    "personal_phrase": "If you come to understand the Power of the Code ... then ... first you will change your life, what's next? ... you will change the world."
+    "personal_phrase": "If you come to understand the Power of the Code ... then ... first you will change your life, what's next? ... you will change the world.",
+    "skills": {
+         "techs":[
+            {
+               "name": "HTML5",
+               "color": "E34F26",
+               "logo": "html5",
+               "logoColor": null
+            },
+            {
+               "name": "CSS3",
+               "color": "1572B6",
+               "logo": "css3",
+               "logoColor": null
+            },
+            {
+               "name": "Javascript",
+               "color": "323330",
+               "logo": "javascript",
+               "logoColor": "F7DF1E"
+            },
+            {
+               "name": "Typescript",
+               "color": "007ACC",
+               "logo": "typescript",
+               "logoColor": null
+            },
+            {
+               "name": "Angular",
+               "color": "ed25af",
+               "logo": "Angular",
+               "logoColor": null
+            },
+            {
+               "name": "RxJS",
+               "color": "B7178C",
+               "logo": "reactivex",
+               "logoColor": null
+            },
+            {
+               "name": "Material",
+               "color": "blue",
+               "logo": "material",
+               "logoColor": null
+            },
+            {
+               "name": "Bootstrap",
+               "color": "blue",
+               "logo": "bootstrap",
+               "logoColor": null
+            },
+            {
+               "name": "Dart",
+               "color": "blue",
+               "logo": "dart",
+               "logoColor": null
+            },
+            {
+               "name": "Flutter",
+               "color": "blue",
+               "logo": "Flutter",
+               "logoColor": null
+            },
+            {
+               "name": "Git",
+               "color": "fc6d26",
+               "logo": "git",
+               "logoColor": null
+            }
+         ]
+    }
 }
