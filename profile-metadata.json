@@ -2,6 +2,29 @@
     "name": "Lenier G. Fontaine",
     "avatar": "avatar.jpeg",
     "personal_phrase": "If you come to understand the Power of the Code ... then ... first you will change your life, what's next? ... you will change the world.",
+    "social_networks": [
+      {
+         "name": "LinkedIn",
+         "url": "https://linkedin.com/in/lenierfontaine",
+         "color": "0077B5",
+         "logo": "linkedin",
+         "logoColor": null
+      },
+      {
+         "name": "X",
+         "url": "https://x.com/@LenierFontaine",
+         "color": "1DA1F2",
+         "logo": "x",
+         "logoColor": null
+      },
+      {
+         "name": "Github",
+         "url": "https://github.com/lgf-roverbytekok",
+         "color": "121011",
+         "logo": "github",
+         "logoColor": null
+      }
+    ],
     "skills": {
          "techs":[
             {
